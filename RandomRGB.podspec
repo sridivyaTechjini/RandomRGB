@@ -32,10 +32,10 @@ Pod::Spec.new do |s|
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source_files  = "Classes", "Classes/**/*.{h,m,swift}"
+  s.source_files  = "RandomRGB", "RandomRGB/**/*.{h,m,swift}"
   s.exclude_files = "Classes/Exclude"
 
-  # s.public_header_files = "Classes/**/*.h"
+   s.public_header_files = "RandomRGB/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
