@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "RandomRGB"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A short description of RandomRGB."
-  s.homepage     = "https://github.com/sridivyaTechjini/RandomRGBFramework"
+  s.homepage     = "https://github.com/sridivyaTechjini/RandomRGB"
 
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/sridivyaTechjini/RandomRGBFramework.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/sridivyaTechjini/RandomRGB.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
